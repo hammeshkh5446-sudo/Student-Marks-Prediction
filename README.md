@@ -22,6 +22,14 @@ This project predicts student marks based on:
 * Attendance also plays an important role
 * Sleep was removed due to low impact
 
+* ## 📈 Visualization
+
+![Graph](Heatmap)
+
+![Graph](Scatter)
+
+
+
 ## 🛠️ Technologies Used
 
 * Python
@@ -40,3 +48,10 @@ This project predicts student marks based on:
 
 * students_real.csv
 * main.py (your code file)
+
+* 
+* ## 📈 Visualization
+
+![Graph](Heatmap)
+
+![Graph](Scatter)
