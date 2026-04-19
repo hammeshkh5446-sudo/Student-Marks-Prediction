@@ -52,6 +52,6 @@ This project predicts student marks based on:
 * 
 * ## 📈 Visualization
 
-![Graph](Heatmap)
+![Graph](Heatmap.JPEG)
 
-![Graph](Scatter)
+![Graph](Scatter.JPEG)
