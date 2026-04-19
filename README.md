@@ -22,12 +22,6 @@ This project predicts student marks based on:
 * Attendance also plays an important role
 * Sleep was removed due to low impact
 
-* ## 📈 Visualization
-
-![Graph](Heatmap)
-
-![Graph](Scatter)
-
 
 
 ## 🛠️ Technologies Used
@@ -52,6 +46,6 @@ This project predicts student marks based on:
 * 
 * ## 📈 Visualization
 
-![Graph](Heatmap.JPEG)
+![Graph](Heatmap.JPG)
 
-![Graph](Scatter.JPEG)
+![Graph](Scatter.JPG)
