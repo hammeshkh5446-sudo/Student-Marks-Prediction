@@ -46,6 +46,32 @@ This project predicts student marks based on:
 * 
 * ## 📈 Visualization
 
+##Heatmap
 ![Graph](Heatmap.JPG)
-
+##Scatter
 ![Graph](Scatter.JPG)
+
+## 📊 Example Prediction
+
+Input:
+Hours = 6, Attendance = 80
+
+Output:
+Predicted Marks = 71
+
+## 💡 Why This Project?
+
+This project demonstrates:
+- Data analysis using Pandas
+- Feature selection using correlation
+- Visualization using Seaborn
+- Machine Learning using Linear Regression
+
+##Topics:
+machine-learning
+data-science
+linear-regression
+student-prediction
+python
+
+
